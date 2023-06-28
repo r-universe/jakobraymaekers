@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cellWise"]
 	path = cellWise
 	url = https://github.com/cran/cellWise
-	shallow = true
-	registered = true
 [submodule "classmap"]
 	path = classmap
 	url = https://github.com/cran/classmap
-	shallow = true
-	registered = true
