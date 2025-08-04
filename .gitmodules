@@ -8,3 +8,6 @@
 [submodule "classmap"]
 	path = classmap
 	url = https://github.com/cran/classmap
+[submodule "mrfDepth"]
+	path = mrfDepth
+	url = https://github.com/cran/mrfDepth
